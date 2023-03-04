@@ -24,6 +24,6 @@ We reserve the right to update or change this privacy policy at any time. If we 
 
 Contact Us:
 
-If you have any questions or concerns about this privacy policy or the privacy practices of our mobile application, please contact us at [insert contact email address].
+If you have any questions or concerns about this privacy policy or the privacy practices of our mobile application, please contact us at codewithuse@gmail.com.
 
 By using Eglise Compassion, you consent to this privacy policy.
