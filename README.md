@@ -1,26 +1,43 @@
-Privacy Policy for Eglise Compassion Mobile App
+# Privacy Policy for Eglise Compassion Mobile App
+
+## Introduction 
 
 At Eglise Compassion, we are committed to protecting the privacy of our users. This privacy policy outlines how we collect, use, and protect any personal information that you provide to us when using our mobile application.
 
-Information We Collect:
+## Information We Collect 
 
-Eglise Compassion does not collect any personal data from users of our mobile application. We do not require you to log in or create an account to use our app. We do not collect any information about your device or usage of the app.
+We can collect the following information from you when you use the App: 
 
-User-Generated Content:
+* Your device's unique identifier (UDID) 
+* Your device's operating system version 
+* Your device's language setting 
+* The date and time you use the App 
+* The sermons you have loved or watch 
+* The number of times you have used the App 
 
-The only information that we may collect is the content that you create and save within our application. This includes favorites videos, or other user-generated content that you add to our app. This content is stored locally on your device and is not shared with us or any third parties.
+## How We Use Your Information 
 
-Use of Information:
+We use your information to: 
 
-We do not use any personal information for any purposes. The content you create within our app is solely for your own use, and is not used or shared with anyone else.
+Provide and improve the App 
+Display notifications to remember you watch your favorites sermons  
+Analyze your usage of the App to improve our products and services 
+Comply with applicable laws and regulations 
 
-Protection of Information:
 
-We take the protection of your information very seriously. We do not collect, store, or share any personal data. All user-generated content is stored locally on your device, and is not accessible to us or any third parties.
+## How We Share Your Information 
 
-Changes to this Privacy Policy:
+We do not share your information with third parties for their own marketing purposes. However, we may share your information with third-party service providers who help us operate the App, such as our hosting provider or our analytics provider. We also may share your information with law enforcement or other government officials if we are required to do so by law. 
 
-We reserve the right to update or change this privacy policy at any time. If we make any material changes to this policy, we will notify you by updating the date at the top of this policy or by providing you with a notice within the app.
+## Your Choices 
+
+You can choose to delete your account at any time. To do this, please contact us at codewithuse@gmail.com 
+
+
+## Changes to This Policy 
+
+We may update this Policy from time to time. If we make any significant changes, we will notify you by email or through the App. 
+
 
 Contact Us:
 
